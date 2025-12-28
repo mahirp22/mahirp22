@@ -10,13 +10,12 @@ My current focus is strengthening my fundamentals while building practical proje
 
 I’ve got a few pinned projects here that reflect what I’m learning and experimenting with.
 
----
 **Tools I use:**
 - Languages: Java, Python, C++, JavaScript, PHP
 - Web: HTML, CSS
 - Databases: SQL, MySQL
 - Tools: Git, GitHub, VS Code, XAMPP
----
+
 **Fun facts:**
 - I prefer progress over perfection
 - I enjoy figuring things out as I go
