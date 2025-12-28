@@ -1,5 +1,29 @@
 ## Hi there 👋
 
+I’m Mahir, a software engineering student.
+
+I like working on thoughtful projects and turning ideas into something real.
+
+If something catches my interest, I’ll probably explore it, build it, and improve it over time.
+
+My current focus is strengthening my fundamentals while building practical projects alongside my coursework.
+
+I’ve got a few pinned projects here that reflect what I’m learning and experimenting with.
+
+---
+
+**Tools I use:**
+- Languages: Java, Python, C++, JavaScript
+- Web: HTML, CSS
+- Tools: Git, GitHub, VS Code
+
+---
+
+**Fun facts:**
+- I prefer progress over perfection
+- I enjoy figuring things out as I go
+- Most of my learning happens through building
+
 <!--
 **mahirp22/mahirp22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
