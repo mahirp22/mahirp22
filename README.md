@@ -1,4 +1,4 @@
-**Hey there!** <img src="https://tenor.com/bjtkt.gif" width="35" />
+**Hey there!** <img src="https://tenor.com/bjtkt.gif" width="40" />
 
 I’m Mahir, a software engineering student.
 
