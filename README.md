@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there! <img src="https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/animated/1F44B.gif" width="40" />
 
 I’m Mahir, a software engineering student.
 
