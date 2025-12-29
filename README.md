@@ -1,4 +1,4 @@
-**Hey there!** <img src="./smiley-emoji.gif" width="40" />
+**Hey there!** <img src="./smiley-emoji.gif" width="30" />
 
 I’m Mahir, a software engineering student.
 
