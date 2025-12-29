@@ -1,4 +1,4 @@
-Hey there! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTU1Ympib3Vnb20xd3AxYzJ0bmsxcjdqYzI1Z2xjeGZjcW1haDIxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40" />
+**Hey there!** <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTU1Ympib3Vnb20xd3AxYzJ0bmsxcjdqYzI1Z2xjeGZjcW1haDIxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40" />
 
 I’m Mahir, a software engineering student.
 
