@@ -1,6 +1,4 @@
 **Hey there!** <img src="https://tenor.com/bjtkt.gif" width="40" />
-Hey there! 👋 <img src="https://c.tenor.com/0vtbz4DLz6UAAAAd/smiley-emoji-cute.gif" width="40" />
-
 
 I’m Mahir, a software engineering student.
 
