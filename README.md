@@ -13,7 +13,7 @@ I’ve got a few pinned projects here that reflect what I’m learning and exper
 **Tools I use:**
 - Languages: Java, Python, C++, JavaScript, PHP
 - Web: HTML, CSS, REST APIs, Flask, React
-- Data & AI: Pandas, NumPy, NLP, Jupyter Notebook, Scikit-learn, Hugging Face
+- Data & AI: Pandas, NumPy, NLP, Jupyter Notebook, Kaggle, Hugging Face
 - APIs: Spotify Web API, EXA Search API
 - Databases: SQL, MySQL
 - Tools: Git, GitHub, VS Code, XAMPP
