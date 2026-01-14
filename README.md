@@ -14,7 +14,7 @@ I’ve got a few pinned projects here that reflect what I’m learning and exper
 - Languages: Java, Python, C++, JavaScript, PHP
 - Web: HTML, CSS, REST APIs, Flask, React
 - Data & AI: Pandas, NumPy, NLP, Jupyter Notebook, Scikit-learn, Hugging Face
-- APIs: Spotify Web API, EXA Search API
+- APIs: Spotify Web API, Deezer API, EXA Search API
 - Databases: SQL, MySQL
 - Tools: Git, GitHub, VS Code, XAMPP
 
@@ -22,11 +22,6 @@ I’ve got a few pinned projects here that reflect what I’m learning and exper
 - I prefer progress over perfection
 - I enjoy figuring things out as I go
 - Most of my learning happens through building
-
-<!--
-**mahirp22/mahirp22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
