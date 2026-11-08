@@ -26,7 +26,6 @@ I’ve pinned a few projects here that reflect what I’m currently learning and
 
 <strong>Currently building</strong>
 [**DevFlow**](https://github.com/mahirp22/DevFlow-Project-Management-Platform) — a full-stack project management platform with real-time Kanban boards, role-based access, and AWS integrations.
-
 **React · TypeScript · ASP.NET Core · PostgreSQL · AWS**
 
 I'm looking for an internship or co-op where I can contribute,
