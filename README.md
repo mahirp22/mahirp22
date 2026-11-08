@@ -1,6 +1,7 @@
 <h2>Hey there! <img src="./smiley-emoji.gif" width="25" /></h2>
 
 I’m Mahir, a software engineering student who enjoys turning ideas into practical, well-thought-out projects.
+**Seeking software engineering internships & co-op opportunities**
 
 If something catches my interest, I’ll explore it, build it, and improve it over time.
 
