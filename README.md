@@ -1,6 +1,6 @@
 <h2>Hey there! <img src="./smiley-emoji.gif" width="25" /></h2>
 
-<h3>I’m Mahir, a software engineering student who enjoys turning ideas into practical, well-thought-out projects.</h3>
+<h2>I’m Mahir, a software engineering student who enjoys turning ideas into practical, well-thought-out projects.</h2>
 
 **Seeking software engineering internships & co-op opportunities**
 
@@ -14,7 +14,7 @@
 
 I’ve pinned a few projects here that reflect what I’m currently learning and experimenting with.
 
-<h4>Recently built</h4>
+<h3>Recently built</h3>
 
 [**DevFlow**](https://github.com/mahirp22/DevFlow-Project-Management-Platform) - a full-stack project management platform with real-time Kanban boards, role-based access, and AWS integrations.
 
