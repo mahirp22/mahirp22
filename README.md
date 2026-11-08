@@ -24,7 +24,7 @@ I’ve pinned a few projects here that reflect what I’m currently learning and
   <li><strong>Tools:</strong> Git, GitHub, VS Code, XAMPP</li>
 </ul>
 
-<strong>Recently </strong>
+<strong>Recently built</strong>
 [**DevFlow**](https://github.com/mahirp22/DevFlow-Project-Management-Platform) — a full-stack project management platform with real-time Kanban boards, role-based access, and AWS integrations.
 **React · TypeScript · ASP.NET Core · PostgreSQL · AWS**
 
