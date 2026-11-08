@@ -4,7 +4,7 @@
 
 **Seeking software engineering internships & co-op opportunities**
 
-🎓 Studying **Software Engineering at Ontario Tech University**, with a **3.83 GPA**.
+🎓 Studying **Software Engineering at Ontario Tech University**, with a **3.83 GPA**. Expected graduation: April 2028.
 
 🛠️ If something catches my interest, I’ll explore it, build it, and improve it over time.
 
