@@ -30,8 +30,8 @@ I’ve pinned a few projects here that reflect what I’m currently learning and
   <li><strong>Tools:</strong> Git, GitHub, VS Code, XAMPP</li>
 </ul>
 
-I'm looking for an internship or co-op where I can contribute,
-learn from experienced engineers, and grow as a developer.
+### I'm looking for an internship or co-op where I can contribute, 
+### learn from experienced engineers, and grow as a developer.
 
 **[Get in touch](mailto:contactmahirp@gmail.com)** · **[Connect on LinkedIn](https://www.linkedin.com/in/mahirmpatel/)**
 
