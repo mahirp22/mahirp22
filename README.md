@@ -14,17 +14,13 @@
 
 I’ve pinned a few projects here that reflect what I’m currently learning and experimenting with.
 
-<br>
-
 ### Recently built
 
 [**DevFlow**](https://github.com/mahirp22/DevFlow-Project-Management-Platform) - a full-stack project management platform with real-time Kanban boards, role-based access, and AWS integrations.
 
 **React · TypeScript · ASP.NET Core · PostgreSQL · AWS**
 
-<br>
-
-<strong>Tools I use:</strong>
+### Tools I use:
 <ul>
   <li><strong>Languages:</strong> Java, Python, C++, JavaScript, TypeScript, C#, PHP, SQL</li>
   <li><strong>Frameworks & Web:</strong> React, ASP.NET Core, Flask, Entity Framework Core, SignalR, HTML/CSS, REST APIs</li>
@@ -33,8 +29,6 @@ I’ve pinned a few projects here that reflect what I’m currently learning and
   <li><strong>Databases & Cloud:</strong> PostgreSQL, MySQL, AWS</li>
   <li><strong>Tools:</strong> Git, GitHub, VS Code, XAMPP</li>
 </ul>
-
-<br>
 
 I'm looking for an internship or co-op where I can contribute,
 learn from experienced engineers, and grow as a developer.
