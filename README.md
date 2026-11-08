@@ -14,6 +14,12 @@
 
 I’ve pinned a few projects here that reflect what I’m currently learning and experimenting with.
 
+### Recently built
+
+[**DevFlow**](https://github.com/mahirp22/DevFlow-Project-Management-Platform) — a full-stack project management platform with real-time Kanban boards, role-based access, and AWS integrations.
+
+**React · TypeScript · ASP.NET Core · PostgreSQL · AWS**
+
 <strong>Tools I use:</strong>
 <ul>
   <li><strong>Languages:</strong> Java, Python, C++, JavaScript, TypeScript, C#, PHP, SQL</li>
