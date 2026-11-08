@@ -2,8 +2,6 @@
   
 <h3>I’m Mahir, a software engineering student who enjoys turning ideas into practical, well-thought-out projects.</h3>
 
-<summary><h2>I’m Mahir, a software engineering student who enjoys turning ideas into practical, well thought-out projects.</h2></summary>
-
 **Seeking software engineering internships & co-op opportunities**
 
 🎓 Studying **Software Engineering at Ontario Tech University**, with a **3.83 GPA**. Expected graduation: April 2028.
