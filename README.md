@@ -14,7 +14,7 @@
 
 I’ve pinned a few projects here that reflect what I’m currently learning and experimenting with.
 
-<h3>Recently built</h3>
+### Recently built
 
 [**DevFlow**](https://github.com/mahirp22/DevFlow-Project-Management-Platform) - a full-stack project management platform with real-time Kanban boards, role-based access, and AWS integrations.
 
@@ -30,8 +30,7 @@ I’ve pinned a few projects here that reflect what I’m currently learning and
   <li><strong>Tools:</strong> Git, GitHub, VS Code, XAMPP</li>
 </ul>
 
-### I'm looking for an internship or co-op where I can contribute, 
-### learn from experienced engineers, and grow as a developer.
+### I'm looking for an internship or co-op where I can contribute, learn from experienced engineers, and grow as a developer.
 
 **[Get in touch](mailto:contactmahirp@gmail.com)** · **[Connect on LinkedIn](https://www.linkedin.com/in/mahirmpatel/)**
 
