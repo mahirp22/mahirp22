@@ -1,6 +1,6 @@
 <h2>Hey there! <img src="./smiley-emoji.gif" width="25" /></h2>
 
-## I’m Mahir, a software engineering student who enjoys turning ideas into practical, well-thought-out projects.
+I’m Mahir, a software engineering student who enjoys turning ideas into practical, well-thought-out projects.
 
 If something catches my interest, I’ll explore it, build it, and improve it over time.
 
@@ -24,3 +24,9 @@ I’ve pinned a few projects here that reflect what I’m currently learning and
   <li>I enjoy figuring things out as I go</li>
   <li>Most of my learning happens through building</li>
 </ul>
+
+I'm looking for an internship or co-op where I can contribute,
+learn from experienced engineers, and grow as a developer.
+
+**[Get in touch](mailto:contactmahirp@gmail.com)** · **[Connect on LinkedIn](https://www.linkedin.com/in/mahirmpatel/)**
+
