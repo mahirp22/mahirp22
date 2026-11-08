@@ -10,6 +10,8 @@
 
 🧠 Right now, I’m focused on strengthening my fundamentals while working on real-world projects alongside my coursework.
 
+🌱 Most of my learning happens through building.
+
 I’ve pinned a few projects here that reflect what I’m currently learning and experimenting with.
 
 <strong>Tools I use:</strong>
@@ -22,12 +24,10 @@ I’ve pinned a few projects here that reflect what I’m currently learning and
   <li><strong>Tools:</strong> Git, GitHub, VS Code, XAMPP</li>
 </ul>
 
-<strong>Fun facts:</strong>
-<ul>
-  <li>I prefer progress over perfection</li>
-  <li>I enjoy figuring things out as I go</li>
-  <li>Most of my learning happens through building</li>
-</ul>
+<strong>Currently building</strong>
+[**DevFlow**](https://github.com/mahirp22/DevFlow-Project-Management-Platform) — a full-stack project management platform with real-time Kanban boards, role-based access, and AWS integrations.
+
+**React · TypeScript · ASP.NET Core · PostgreSQL · AWS**
 
 I'm looking for an internship or co-op where I can contribute,
 learn from experienced engineers, and grow as a developer.
