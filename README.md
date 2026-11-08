@@ -10,11 +10,11 @@ I’ve pinned a few projects here that reflect what I’m currently learning and
 
 <strong>Tools I use:</strong>
 <ul>
-  <li><strong>Languages:</strong> Java, Python, C++, JavaScript, PHP</li>
-  <li><strong>Web:</strong> HTML, CSS, React, Flask, REST APIs</li>
-  <li><strong>Data & AI:</strong> Pandas, NumPy, Scikit-learn, NLP, Hugging Face, Jupyter</li>
-  <li><strong>APIs:</strong> Spotify API, Deezer API, EXA Search API</li>
-  <li><strong>Databases:</strong> SQL, MySQL</li>
+  <li><strong>Languages:</strong> Java, Python, C++, JavaScript, TypeScript, C#, PHP, SQL</li>
+  <li><strong>Frameworks & Web:</strong> React, ASP.NET Core, Flask, Entity Framework Core, SignalR, HTML/CSS, REST APIs</li>
+  <li><strong>Data & AI:</strong> Pandas, NumPy, Scikit-learn, NLP, Hugging Face, Jupyter Notebook</li>
+  <li><strong>APIs:</strong> Exa Search API, OMDb API, Deezer API</li>
+  <li><strong>Databases & Cloud:</strong> PostgreSQL, MySQL, AWS</li>
   <li><strong>Tools:</strong> Git, GitHub, VS Code, XAMPP</li>
 </ul>
 
