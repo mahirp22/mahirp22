@@ -4,6 +4,8 @@ I’m Mahir, a software engineering student who enjoys turning ideas into practi
 
 **Seeking software engineering internships & co-op opportunities**
 
+Studying **Software Engineering at Ontario Tech University**, with a **3.83 GPA**.
+
 If something catches my interest, I’ll explore it, build it, and improve it over time.
 
 Right now, I’m focused on strengthening my fundamentals while working on real-world projects alongside my coursework.
