@@ -1,5 +1,6 @@
 <h2>Hey there! <img src="./smiley-emoji.gif" width="25" />
 
+<br> 
 
 I’m Mahir, a software engineering student who enjoys turning ideas into practical, well-thought-out projects.</h2>
 
