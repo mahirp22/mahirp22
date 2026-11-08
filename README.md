@@ -2,7 +2,7 @@
   
 <h3>I’m Mahir, a software engineering student who enjoys turning ideas into practical, well-thought-out projects.</h3>
 
-<summary><h1>I’m Mahir, a software engineering student who enjoys turning ideas into practical, well-thought-out projects.</h1></summary>
+<summary><h2>I’m Mahir, a software engineering student who enjoys turning ideas into practical, well-thought-out projects.</h2></summary>
 
 **Seeking software engineering internships & co-op opportunities**
 
